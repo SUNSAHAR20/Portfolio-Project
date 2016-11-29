@@ -1,0 +1,27 @@
+{
+  "name": "project-1",
+  "version": "1.0.0",
+  "description": "Portfolio-Project",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SUNSAHAR20/Portfolio-Project.git"
+  },
+  "keywords": [
+    "grunt",
+    "responsive"
+  ],
+  "author": "soorya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SUNSAHAR20/Portfolio-Project/issues"
+  },
+  "homepage": "https://github.com/SUNSAHAR20/Portfolio-Project#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-responsive-images": "^1.10.1"
+  }
+}
