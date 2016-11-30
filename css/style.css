@@ -1,97 +1,90 @@
 body{
-    font-family: 'Work Sans', sans-serif;
-    color: #000 ;
-    font-weight: 500;
-    background-image: url("http://hdwpro.com/wp-content/uploads/2016/01/Hd-Vector-Wallpaper.jpeg");
-    background-repeat: no-repeat;
- }
+	font-family: 'Work Sans', sans-serif;
+	color: #000;
+	font-weight: 500;
+	background-image: url("http://hdwpro.com/wp-content/uploads/2016/01/Hd-Vector-Wallpaper.jpeg");
+	background-repeat: no-repeat;
+}
 .text-thin{
-    font-weight: 400;
+	font-weight: 400;
 }
 .title-super{
-    font-size: 40px;
-    color: #a02e5c;
+	font-size: 40px;
+	color: #a02e5c;
 }
-
-
+.main{
+	margin: 0 auto 0 auto;
+}
 .title-logo{
-    margin-top: 20px;
-    margin-right: 5px;
+	margin-top: 20px;
+	margin-right: 5px;
 }
 
-#main-img{
-    margin: 0 5px 0 5px;
+.main-img{
+	margin: 0 5px 0 5px;
 }
 
 .img-responsive {
-  margin: 0 auto;
+ 	margin: 0 auto;
 }
 
 .modal-body{
-    font-family: 'Dancing Script', cursive;
+	font-family: 'Dancing Script', cursive;
 }
 
 #icons{
-    border-top: 2px solid #eee;
+	border-top: 2px solid #eee;
 }
 
- #icons a{
-    margin: 3px 1em 2px 1em;
-    line-height: 3em;
-    color: #000;
- }
-
-#viewsource {
-  display: block;
-  padding: 1em 0 0 1em;
-  color: #000;
-  text-decoration: underline;
+#icons a{
+	margin: 3px 1em 2px 1em;
+	line-height: 3em;
+	color: #000;
 }
 
- [class="zocial-twitter"]:before {
-    font-family: 'zocial', sans-serif;
-    color: #0361f4;
-    display: inline-block;
-    width: 2em;
-    text-shadow: 3px 3px 3px #0361f4;
-    }
+#viewsource{
+	display: block;
+	padding: 1em 0 0 1em;
+	color: #000;
+	text-decoration: underline;
+}
 
- [class="zocial-digg"]:before {
-    font-family: 'zocial', sans-serif;
-    color: #fff;
-    display: inline-block;
-    width: 2em;
-    text-shadow: 3px 3px 3px #000;
-    }
+	[class="zocial-twitter"]:before {
+	font-family: 'zocial', sans-serif;
+	color: #0361f4;
+	display: inline-block;
+	width: 2em;
+	text-shadow: 3px 3px 3px #0361f4;
+	}
 
-    [class="zocial-facebook"]:before {
-     font-family: 'zocial', sans-serif;
-     color: #3f5b15;
-     display: inline-block;
-     width: 2em;
-     text-shadow: 3px 3px 3px #3f5b15;
-    }
+	[class="zocial-digg"]:before {
+	font-family: 'zocial', sans-serif;
+	color: #fff;
+	display: inline-block;
+	width: 2em;
+	text-shadow: 3px 3px 3px #000;
+	}
 
-    [class="zocial-googleplus"]:before {
-    font-family: 'zocial', sans-serif;
-    color: #dd4b39;
-    display: inline-block;
-    width: 2em;
-    text-shadow: 3px 3px 3px #dd4b39;
-    }
+	[class="zocial-facebook"]:before {
+	font-family: 'zocial', sans-serif;
+	color: #3f5b15;
+	display: inline-block;
+	width: 2em;
+	text-shadow: 3px 3px 3px #3f5b15;
+	}
 
-     [class="brandico-github"]:before {
-     font-family: 'brandico', sans-serif;
-     color: #050505;
-     display: inline-block;
-     width: 2em;
-     text-shadow: 3px 3px 3px #050505;
-    }
+	[class="zocial-googleplus"]:before {
+	font-family: 'zocial', sans-serif;
+	color: #dd4b39;
+	display: inline-block;
+	width: 2em;
+	text-shadow: 3px 3px 3px #dd4b39;
+	}
 
-
-
-
-
-
-
-
+	[class="brandico-github"]:before {
+	font-family: 'brandico', sans-serif;
+	color: #050505;
+	display: inline-block;
+	width: 2em;
+	text-shadow: 3px 3px 3px #050505;
+	}
